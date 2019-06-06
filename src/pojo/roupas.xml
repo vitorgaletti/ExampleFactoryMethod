@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roupas> 
+    <roupa id="101">
+        <descricao>camisa</descricao>
+        <marca>lacoste</marca>
+        <tamanho>m</tamanho>
+        <cor>branca</cor>
+        <quantidade>5</quantidade>
+        <preco>39.90</preco>
+    </roupa>
+    <roupa id="102">
+        <descricao>camisa</descricao>
+        <marca>osmoze</marca>
+        <tamanho>gg</tamanho>    
+        <cor>verde</cor>
+        <quantidade>10</quantidade>
+        <preco>29.90</preco>
+    </roupa>
+    <roupa id="103">
+        <descricao>camisa</descricao>
+        <marca>diesel</marca>
+        <tamanho>g</tamanho>    
+        <cor>cinza</cor>
+        <quantidade>20</quantidade>
+        <preco>59.90</preco>
+    </roupa>
+    <roupa id="115">
+        <descricao>calca</descricao>
+        <marca>amaro</marca>
+        <tamanho>38</tamanho>    
+        <cor>bege</cor>
+        <quantidade>5</quantidade>
+        <preco>99.90</preco>
+    </roupa>
+    <roupa id="116">
+        <descricao>calca</descricao>
+        <marca>dimy</marca>
+        <tamanho>40</tamanho>    
+        <cor>vermelho</cor>
+        <quantidade>3</quantidade>
+        <preco>119.90</preco>
+    </roupa>
+    <roupa id="117">
+        <descricao>calca</descricao>
+        <marca>element</marca>
+        <tamanho>42</tamanho>    
+        <cor>preto</cor>
+        <quantidade>10</quantidade>
+        <preco>189.90</preco>
+    </roupa>
+    <roupa id="128">
+        <descricao>blusa</descricao>
+        <marca>ellus</marca>
+        <tamanho>m</tamanho>    
+        <cor>branco</cor>
+        <quantidade>15</quantidade>
+        <preco>219.90</preco>
+    </roupa>
+    <roupa id="129">
+        <descricao>blusa</descricao>
+        <marca>malwee</marca>
+        <tamanho>g</tamanho>    
+        <cor>azul</cor>
+        <quantidade>6</quantidade>
+        <preco>239.90</preco>
+    </roupa>
+    <roupa id="134">
+        <descricao>bermuda</descricao>
+        <marca>alfa</marca>
+        <tamanho>42</tamanho>    
+        <cor>bege</cor>
+        <quantidade>3</quantidade>
+        <preco>129.90</preco>
+    </roupa>
+    <roupa id="135">
+        <descricao>meia</descricao>
+        <marca>topper</marca>
+        <tamanho>m</tamanho>    
+        <cor>branca</cor>
+        <quantidade>10</quantidade>
+        <preco>14.90</preco>
+    </roupa>
+</roupas>
